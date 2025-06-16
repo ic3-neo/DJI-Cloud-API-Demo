@@ -19,7 +19,12 @@ public enum AirConditionerModeSwitchActionEnum {
 
     heating_mode(2),
 
-    DEHUMIDIFICATION_MODE(3);
+    DEHUMIDIFICATION_MODE(3),
+
+    AIR_COOLING_MODE(4),
+
+    DEFROGGER_MODE(5);
+    ;
 
     private final int action;
 
