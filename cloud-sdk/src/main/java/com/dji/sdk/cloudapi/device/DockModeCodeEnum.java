@@ -21,7 +21,9 @@ public enum DockModeCodeEnum {
 
     UPGRADING(3),
 
-    WORKING(4);
+    WORKING(4),
+
+    NEED_CALIBRATION(5);
 
     private final int code;
 
