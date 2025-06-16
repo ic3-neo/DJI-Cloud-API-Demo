@@ -37,6 +37,10 @@ public enum CameraIsoEnum {
 
     _25600(11),
 
+    _51200(12),
+
+    _102400(12),
+
     FIXED(255),
 
     ;
